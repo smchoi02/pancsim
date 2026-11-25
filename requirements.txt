@@ -1,0 +1,7 @@
+# 검증한 버전: numpy 2.5, scipy 1.18, pandas 3.0, scikit-learn 1.9, matplotlib 3.11, openpyxl 3.1 (Python 3.11 이상)
+numpy
+scipy
+pandas
+scikit-learn
+openpyxl
+matplotlib
